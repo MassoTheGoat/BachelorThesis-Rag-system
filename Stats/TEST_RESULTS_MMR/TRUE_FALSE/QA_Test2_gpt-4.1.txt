@@ -1,0 +1,60 @@
+1. DOMANDA: Esiste una documentazione sull'organizzazione di una società che tratta vendite per catalogo nel progress MIM, Dmail. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------
+2. DOMANDA: G.D.A. (Postalmarket) ha avuto un fatturato superiore a 200 miliardi di lire nel 1999. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+3. DOMANDA: Nel 2003 sono state spedite più di 500.000 copie di catalogo. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+4. DOMANDA: Il costo totale di un catalogo imbustato è inferiore a 0,30 euro nel 2004. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+5. DOMANDA: Nel 2002 la redemption tra numero ordini e cataloghi inviati era 0,6. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+6. DOMANDA: Nel 2004, la fascia di costo di trasporto per spedizioni oltre i 20 kg era 12 euro. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: Non lo so.
+--------------------------------------------------------------------------------
+7. DOMANDA: MIM utilizza un codice progressivo per identificare i prospect nei cataloghi spediti. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------
+8. DOMANDA: Sono previsti almeno due invii di Banx News ogni anno per la validità dell’abbonamento postale. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------
+9. DOMANDA: Nel 2002, la differenza positiva provvisoria tra costi e ricavi dei cataloghi era di 121.000 euro. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------
+10. DOMANDA: La copertina dei cataloghi viene scelta anche tramite un questionario ai clienti MIM. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: Non lo so.
+--------------------------------------------------------------------------------
+11. DOMANDA: La percentuale dei costi sui ricavi nella vendita di libri distribuiti era del 31%. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+12. DOMANDA: Nel 2001, il totale acquisito da MIM è stato superiore a 1 milione di euro. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: Non lo so.
+--------------------------------------------------------------------------------
+13. DOMANDA: Nel consuntivo 2002, sono stati spediti oltre 400.000 cataloghi per un costo totale superiore a 122.000 euro. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+14. DOMANDA: Nel sistema Contact Pro, il campo "Cancellabile" viene usato per identificare record da eliminare. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------
+15. DOMANDA: Nel 2003 è stato partecipato alla fiera Ambiente Lavoro gratuitamente con stand per MIM e PuntoSicuro. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: Non lo so.
+--------------------------------------------------------------------------------

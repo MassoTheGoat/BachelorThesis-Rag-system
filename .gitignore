@@ -1,0 +1,6 @@
+*.csv
+*.json
+faiss_index/
+faiss_index_1/
+mod_progress*
+*.pkl

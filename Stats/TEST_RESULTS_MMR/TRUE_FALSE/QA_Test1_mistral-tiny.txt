@@ -1,0 +1,60 @@
+1. DOMANDA: Il riesame si basa anche sulle informazioni provenienti dai clienti. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------
+2. DOMANDA: Le azioni decise nei precedenti riesami non vengono prese in considerazione nel riesame attuale. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+3. DOMANDA: La gestione dei corsi e-learning prevede una finestra di tempo tra 30 e 120 giorni. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------
+4. DOMANDA: Da agosto 2007 ci sono state numerose contestazioni da parte dei clienti MIM. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+5. DOMANDA: Il sistema di gestione della qualità (SGQ) di MIM è stato aggiornato secondo i requisiti della norma ISO 9001:2015. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------
+6. DOMANDA: Il gradimento degli utenti dei corsi e-learning MIM è stato particolarmente basso nel 2013. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+7. DOMANDA: Le raccomandazioni per il miglioramento costituiscono un elemento del riesame. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------
+8. DOMANDA: Nel 2016 il valore della produzione di MIM è aumentato rispetto al 2015. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: Non lo so. La domanda non fornisce informazioni sui valori di produzione di MIM per gli anni 2015 e 2016.
+--------------------------------------------------------------------------------
+9. DOMANDA: L’analisi SWOT viene utilizzata come strumento di valutazione nel riesame SGI di MIM. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------
+10. DOMANDA: Alcuni corsi e-learning sono stati eliminati dal catalogo MIM dopo gli Accordi Stato-Regioni del 7 luglio 2016. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+11. DOMANDA: I costi del personale nel 2015 sono aumentati significativamente rispetto all’anno precedente. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------
+12. DOMANDA: Il progetto di miglioramento del processo aziendale è stato completato e formalizzato già nel primo riesame. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+13. DOMANDA: Il database di controllo dei documenti e dati era già completato durante il primo avviamento del SGQ. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: False
+   RISPOSTA GENERATA: Non lo so. Il contesto non fornisce informazioni su quanto riguarda il database di controllo dei documenti e dati durante il primo avviamento del SGQ.
+--------------------------------------------------------------------------------
+14. DOMANDA: Nel processo di riesame vengono valutate le esigenze formative del personale MIM. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: False
+--------------------------------------------------------------------------------
+15. DOMANDA: Le indagini di soddisfazione del cliente MIM sono effettuate anche tramite il sito web aziendale. Rispondi solo con 'True' o 'False'.
+   RISPOSTA ATTESA: True
+   RISPOSTA GENERATA: True
+--------------------------------------------------------------------------------

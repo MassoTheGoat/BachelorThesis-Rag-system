@@ -1,0 +1,60 @@
+1. DOMANDA: Qual è lo scopo principale del nuovo sistema MimNET?
+   RISPOSTA ATTESA: Lo scopo principale del nuovo MimNET è fornire un ambiente digitale rinnovato, che migliori la fruibilità, faciliti il lavoro quotidiano e garantisca una maggiore integrazione tra i team.
+   RISPOSTA GENERATA: Lo scopo principale del nuovo sistema MimNET è migliorare l'esperienza utente (learner e amministratore), ridurre i costi infrastrutturali, migliorare le performance, ridurre i costi di manutenzione e migliorare la sicurezza informatica.
+   SIMILARITÀ SEMANTICA: 0.94
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+2. DOMANDA: A che punto è la produzione dei video per il modulo di Primo Soccorso del MIM?
+   RISPOSTA ATTESA: Il video sul Primo Soccorso è attualmente in fase di montaggio ed è previsto che venga completato con 62 slide animate e sincronizzate.
+   RISPOSTA GENERATA: La produzione dei video per il modulo di Primo Soccorso del MIM è in attesa. Il progettazione è in corso, ma la formazione MIM (riprese video e montaggio) non è ancora iniziata.
+   SIMILARITÀ SEMANTICA: 0.91
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+3. DOMANDA: Quali caratteristiche vengono descritte nel modulo di E-Learning MIM?
+   RISPOSTA ATTESA: Il modulo di E-Learning MIM illustra le funzionalità della piattaforma, evidenziando l’interfaccia interattiva, la tracciabilità dei progressi degli utenti e i contenuti multimediali.
+   RISPOSTA GENERATA: Nel modulo di E-Learning MIM vengono descritte le caratteristiche di un sistema automatico autoconfigurante, in cui l'azienda cliente acquista i corsi di suo interesse e controlla l'avvenuta erogazione. Il sistema gestisce in automatico l'accesso dell'azienda cliente in termini di controllo della validità e si basa su una strategia economica dove il cliente si deve registrare al servizio e dovrà sostenere un costo annuo di abbonamento, a prescindere dal numero di corsi acquistati.
+   SIMILARITÀ SEMANTICA: 0.90
+   CORRETTA? ❌
+--------------------------------------------------------------------------------
+4. DOMANDA: Qual è l'obiettivo del progress sul recupero crediti del 31 ottobre?
+   RISPOSTA ATTESA: L’obiettivo è migliorare i processi di fatturazione e recupero crediti all’interno della SA MIM, rendendoli più trasparenti ed efficienti.
+   RISPOSTA GENERATA: L'obiettivo del progresso sul recupero crediti del 31 ottobre è di migliorare il processo di recupero crediti ai clienti di MIM.
+   SIMILARITÀ SEMANTICA: 0.91
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+5. DOMANDA: Quali elementi sono riassunti nella gestione delle commesse MIM?
+   RISPOSTA ATTESA: Sono riassunte le procedure operative, la documentazione necessaria e il tracciamento delle attività relative alle commesse in corso.
+   RISPOSTA GENERATA: La gestione delle commesse MIM riassume le procedure per la gestione di commesse interne o esterne, l'elenco delle commesse inserite in AD HOC, la gestione degli utenti di LCMS (rivenditori attivi su Scuola della Sicurezza), la gestione degli utenti di LCMS RSPP, la gestione degli utenti AULA, la commessa Manutenzione corsi MIM, la gestione degli utenti SL2 e la gestione degli utenti AULA 15. Inoltre, viene menzionata la commessa per la produzione di corsi di AI e la gestione del controllo presenze della questione 10.
+   SIMILARITÀ SEMANTICA: 0.84
+   CORRETTA? ❌
+--------------------------------------------------------------------------------
+6. DOMANDA: Qual è la missione del cruscotto MIM secondo il contenuto del progress?
+   RISPOSTA ATTESA: La missione è diventare il punto di riferimento nazionale nel monitoraggio dei dati operativi, offrendo una visione sintetica ma dettagliata degli indicatori chiave.
+   RISPOSTA GENERATA: La missione del cruscotto MIM secondo il contenuto del progresso è monitorare il sistema integrato.
+   SIMILARITÀ SEMANTICA: 0.89
+   CORRETTA? ❌
+--------------------------------------------------------------------------------
+7. DOMANDA: Di cosa tratta il Sistema Integrato Qualità e Sicurezza MIM?
+   RISPOSTA ATTESA: Il sistema integrato mira a consolidare le procedure di qualità e sicurezza aziendale, integrandole in un'unica piattaforma accessibile e monitorabile.
+   RISPOSTA GENERATA: Il Sistema Integrato Qualità e Sicurezza MIM tratta della gestione della qualità e della sicurezza in un determinato ambiente di lavoro.
+   SIMILARITÀ SEMANTICA: 0.90
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+8. DOMANDA: Cosa viene richiesto nel progress sulle attività di progettazione della qualità?
+   RISPOSTA ATTESA: Viene richiesto un riepilogo delle attività progettuali in ambito qualità, inclusi i punti critici e le proposte migliorative, da aggiornare entro le prossime settimane.
+   RISPOSTA GENERATA: Nel progresso sulle attività di progettazione della qualità viene richiesto il resoconto delle attività di progettazione, che contiene le modifiche e gli errori da segnalare.
+   SIMILARITÀ SEMANTICA: 0.91
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+9. DOMANDA: Qual è lo scopo del progress “Gestione progress - Sintesi” nell’ambito Qualità?
+   RISPOSTA ATTESA: Lo scopo è fornire una sintesi delle attività qualitative in corso, rendendo più efficiente la consultazione dei dati e il coordinamento tra i gruppi di lavoro.
+   RISPOSTA GENERATA: Lo scopo del progresso "Gestione progress - Sintesi" nell'ambito Qualità è fornire una sintesi delle attività di progettazione del sistema di qualità.
+   SIMILARITÀ SEMANTICA: 0.90
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+10. DOMANDA: A cosa serve il progress “Qualità - nuove idee”?
+   RISPOSTA ATTESA: Serve a raccogliere suggerimenti e proposte da parte degli utenti MIM per migliorare i processi qualitativi, con uno spazio aperto all’innovazione interna.
+   RISPOSTA GENERATA: Il progresso "Qualità - nuove idee" serve per inserire suggerimenti e nuove idee utili alla miglioramento della gestione di MIM.
+   SIMILARITÀ SEMANTICA: 0.91
+   CORRETTA? ✅
+--------------------------------------------------------------------------------

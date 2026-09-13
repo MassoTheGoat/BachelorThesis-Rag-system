@@ -1,0 +1,66 @@
+1. DOMANDA: Quali indicatori vengono usati per monitorare il Sistema Qualità e Sicurezza MIM?
+   RISPOSTA ATTESA: Vengono usati indicatori relativi a non conformità, incidenti, audit e miglioramenti implementati, come base per il riesame del sistema.
+   RISPOSTA GENERATA: Gli indicatori per monitorare il Sistema Qualità e Sicurezza MIM sono riportati nel cruscotto MIM.
+   SIMILARITÀ SEMANTICA: 0.86
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+2. DOMANDA: Cosa si intende per “semplificazione della documentazione interna” in ambito progettazione?
+   RISPOSTA ATTESA: Si intende una revisione delle procedure di progettazione per ridurre la complessità documentale, migliorare l’accessibilità e garantire coerenza tra i processi.
+   RISPOSTA GENERATA: "Semplificazione della documentazione interna" in ambito progettazione si riferisce alla riduzione della complessità e della lunghezza dei documenti interni, con l'obiettivo di rendere più semplice la comprensione e la gestione di essi. Ad esempio, potrebbe essere l'utilizzo di una carta intestata semplificata per alcuni documenti o la creazione di un documento "Project Charter" che descrive l'ambito progettuale, i stakeholders, il budget e il master plan, in modo da ridurre la quantità di informazioni da gestire.
+   SIMILARITÀ SEMANTICA: 0.89
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+3. DOMANDA: Quali funzionalità sono state proposte per l’Intranet Meganet?
+   RISPOSTA ATTESA: Tra le funzionalità richieste ci sono l’aggiornamento dei moduli, l’accesso rapido ai documenti di progetto e l’integrazione con strumenti di gestione operativa.
+   RISPOSTA GENERATA: Le funzionalità proposte per l'Intranet Meganet sono: gestione online di tutti i documenti e del processo di implementazione, modulo "Progress", Area documenti, Consultazione buste paga e Richiesta ferie.
+   SIMILARITÀ SEMANTICA: 0.87
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+4. DOMANDA: Come si vuole ridurre la quantità di prodotti a magazzino?
+   RISPOSTA ATTESA: Identificando prodotti obsoleti o con bassa rotazione, promuovendone l’utilizzo o la dismissione, per ridurre i costi di stoccaggio.
+   RISPOSTA GENERATA: Per ridurre la quantità di prodotti a magazzino, si deve seguire la pratica comune aziendale per lo smaltimento dei prodotti a magazzino (eliminazione di materiale obsoleto, guasti/rottami), promuovere azioni promozionali per smaltire le eccedenze, individuare e definire la scorta minima dei prodotti distribuiti, e valutare e definire il ciclo di vita di ogni prodotto per evitare riordini inutili di prodotti.
+   SIMILARITÀ SEMANTICA: 0.90
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+5. DOMANDA: Qual è il piano per ridurre i prodotti in transito nel magazzino MIM?
+   RISPOSTA ATTESA: L’obiettivo è migliorare la sincronizzazione tra spedizione e ricezione, evitando accumuli nei punti di transito e velocizzando l'evasione.
+   RISPOSTA GENERATA: Il piano per ridurre i prodotti in transito nel magazzino MIM è quello di trasferire la gestione commerciale dei prodotti MIM a MKTG a partire dal 13 ottobre, inoltre è previsto la sistemazione del catalogo dei prodotti eliminati lato sito entro il 30 novembre, e inoltre si sta effettuando una pratica comune per lo smaltimento dei prodotti a magazzino, come da comunicazione di PDC del 15.01.01.
+   SIMILARITÀ SEMANTICA: 0.82
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+6. DOMANDA: In che modo si vogliono semplificare le procedure di evasione degli ordini?
+   RISPOSTA ATTESA: Valutando l’eliminazione di passaggi ridondanti, l’automazione di controlli e la standardizzazione delle modalità di spedizione.
+   RISPOSTA GENERATA: Le procedure di evasione degli ordini si vogliono semplificare rendendo la fase di emissione dell'ordine fluida e distribuita nell'arco del mese, in modo che le fatture possano essere registrate man mano che arrivano, evitando di concentrare l'attività a ridosso della chiusura dell'Iva. Questo avrebbe il duplice vantaggio di rendere i pagamenti dei fornitori più regolari e di evitare di rischiare di non versare l'Iva in caso di assenza imprevista.
+   SIMILARITÀ SEMANTICA: 0.83
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+7. DOMANDA: Qual è la strategia per diminuire gli impegni inevasi nei sistemi AC?
+   RISPOSTA ATTESA: Ridurre gli impegni inevasi attraverso un miglior monitoraggio delle disponibilità e la programmazione più efficiente degli ordini.
+   RISPOSTA GENERATA: La strategia per diminuire gli impegni inevasi nei sistemi AC è identificare nuovi sistemi o modalità di produzione, seguendo il progetto #2609 e analizzando le tecnologie da AIB Euroconference Learnn.
+   SIMILARITÀ SEMANTICA: 0.87
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+8. DOMANDA: Come si può semplificare la produzione di CD e DVD in ambito MIM?
+   RISPOSTA ATTESA: Ottimizzando i flussi produttivi, riducendo i lotti minimi e concentrando le masterizzazioni in fasce orarie dedicate.
+   RISPOSTA GENERATA: Per semplificare la produzione di CD e DVD in ambito MIM, si può:
+- spostare la produzione fisicamente nel magazzino, mantenendo gli stessi addetti alla produzione (MFB, PG);
+- eliminare la produzione di semilavorati (CD e DVD base);
+- produrre solo prodotti finiti (cofanetti con VHS/CD/DVD);
+- individuare i prodotti a scorta 0 o a scorta 7 (o a scorta 3 se gestibile), ovvero i prodotti più venduti;
+- stabilire l'istruzione per la preparazione e gestione dei master in doppia copia, detenuta in regia multimediale e magazzino, con responsabili AGI e MFB;
+- consegna del nuovo master solo al ritiro del vecchio oppure valutare la possibilità di masterizzare da immagine virtuale in rete e non da CD/DVD.
+   SIMILARITÀ SEMANTICA: 0.86
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+9. DOMANDA: Perché si intende eliminare la disponibilità dei prodotti in formato VHS?
+   RISPOSTA ATTESA: Perché la domanda è praticamente nulla, e il formato è ormai obsoleto rispetto agli attuali standard digitali.
+   RISPOSTA GENERATA: Si intende eliminare la disponibilità dei prodotti in formato VHS a causa della previsione che la richiesta di VHS si esaurisca in pochi anni e del progressivo abbandono della produzione dei VHS.
+   SIMILARITÀ SEMANTICA: 0.81
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+10. DOMANDA: Cosa si sta facendo per ridurre gli errori di inventario nel sistema AC?
+   RISPOSTA ATTESA: Si sta migliorando la precisione dei conteggi, introducendo controlli automatici e revisionando le procedure di registrazione.
+   RISPOSTA GENERATA: Si sta attuando l'azione correttiva AC Intranet per gestire il magazzino, inclusi i prodotti virtuali, con il nuovo gestionale, che dovrebbe migliorare l'acquisto e diminuire gli errori di inventario.
+   SIMILARITÀ SEMANTICA: 0.84
+   CORRETTA? ✅
+--------------------------------------------------------------------------------

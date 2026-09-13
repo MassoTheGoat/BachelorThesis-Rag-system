@@ -1,0 +1,60 @@
+1. DOMANDA: Qual è lo scopo principale del nuovo sistema MimNET?
+   RISPOSTA ATTESA: Lo scopo principale del nuovo MimNET è fornire un ambiente digitale rinnovato, che migliori la fruibilità, faciliti il lavoro quotidiano e garantisca una maggiore integrazione tra i team.
+   RISPOSTA GENERATA: Lo scopo principale del nuovo sistema MimNET è ridurre i costi infrastrutturali e di manutenzione, migliorare le performance, l’esperienza utente e la sicurezza informatica.
+   SIMILARITÀ SEMANTICA: 0.94
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+2. DOMANDA: A che punto è la produzione dei video per il modulo di Primo Soccorso del MIM?
+   RISPOSTA ATTESA: Il video sul Primo Soccorso è attualmente in fase di montaggio ed è previsto che venga completato con 62 slide animate e sincronizzate.
+   RISPOSTA GENERATA: La produzione dei video per il modulo di Primo Soccorso del MIM è in attesa di progettazione e non è ancora iniziata.
+   SIMILARITÀ SEMANTICA: 0.90
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+3. DOMANDA: Quali caratteristiche vengono descritte nel modulo di E-Learning MIM?
+   RISPOSTA ATTESA: Il modulo di E-Learning MIM illustra le funzionalità della piattaforma, evidenziando l’interfaccia interattiva, la tracciabilità dei progressi degli utenti e i contenuti multimediali.
+   RISPOSTA GENERATA: Il modulo di E-Learning MIM descrive caratteristiche relative a una piattaforma e-learning autoconfigurante, dove l’azienda cliente acquista i corsi di interesse, controlla l’avvenuta erogazione, si registra al servizio e paga un abbonamento annuo indipendentemente dal numero di corsi acquistati; inoltre, il sistema gestisce automaticamente l’accesso e la validità del servizio.
+   SIMILARITÀ SEMANTICA: 0.94
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+4. DOMANDA: Qual è l'obiettivo del progress sul recupero crediti del 31 ottobre?
+   RISPOSTA ATTESA: L’obiettivo è migliorare i processi di fatturazione e recupero crediti all’interno della SA MIM, rendendoli più trasparenti ed efficienti.
+   RISPOSTA GENERATA: L'obiettivo del progress del 31 ottobre è di migliorare il processo di fatturazione e di recupero crediti ai clienti di MIM.
+   SIMILARITÀ SEMANTICA: 0.93
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+5. DOMANDA: Quali elementi sono riassunti nella gestione delle commesse MIM?
+   RISPOSTA ATTESA: Sono riassunte le procedure operative, la documentazione necessaria e il tracciamento delle attività relative alle commesse in corso.
+   RISPOSTA GENERATA: Nella gestione delle commesse MIM sono riassunte le procedure di gestione delle commesse MIM (interne o esterne) e l'elenco riassuntivo delle commesse inserite in AD HOC.
+   SIMILARITÀ SEMANTICA: 0.87
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+6. DOMANDA: Qual è la missione del cruscotto MIM secondo il contenuto del progress?
+   RISPOSTA ATTESA: La missione è diventare il punto di riferimento nazionale nel monitoraggio dei dati operativi, offrendo una visione sintetica ma dettagliata degli indicatori chiave.
+   RISPOSTA GENERATA: La missione del cruscotto MIM è mantenere la leadership in Italia come fornitore di materiali didattici multimediali e corsi e-learning per la formazione degli adulti sui temi di salute e sicurezza nei luoghi di lavoro, diffondendo le proprie piattaforme e corsi presso grandi organizzazioni pubbliche e private.
+   SIMILARITÀ SEMANTICA: 0.84
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+7. DOMANDA: Di cosa tratta il Sistema Integrato Qualità e Sicurezza MIM?
+   RISPOSTA ATTESA: Il sistema integrato mira a consolidare le procedure di qualità e sicurezza aziendale, integrandole in un'unica piattaforma accessibile e monitorabile.
+   RISPOSTA GENERATA: Il Sistema Integrato Qualità e Sicurezza MIM riguarda la progettazione, il monitoraggio e il miglioramento dei processi di MIM per ottenere la certificazione secondo la norma ISO 9000, integrando qualità e sicurezza nelle attività aziendali.
+   SIMILARITÀ SEMANTICA: 0.91
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+8. DOMANDA: Cosa viene richiesto nel progress sulle attività di progettazione della qualità?
+   RISPOSTA ATTESA: Viene richiesto un riepilogo delle attività progettuali in ambito qualità, inclusi i punti critici e le proposte migliorative, da aggiornare entro le prossime settimane.
+   RISPOSTA GENERATA: Nel progress sulle attività di progettazione della qualità viene richiesto il dettaglio delle attività di progettazione del sistema di qualità.
+   SIMILARITÀ SEMANTICA: 0.89
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+9. DOMANDA: Qual è lo scopo del progress “Gestione progress - Sintesi” nell’ambito Qualità?
+   RISPOSTA ATTESA: Lo scopo è fornire una sintesi delle attività qualitative in corso, rendendo più efficiente la consultazione dei dati e il coordinamento tra i gruppi di lavoro.
+   RISPOSTA GENERATA: Lo scopo del progress “Gestione progress - Sintesi” nell’ambito Qualità è fornire una sintesi delle attività di progettazione del sistema di qualità e un resoconto delle attività per la certificazione, oltre a indicare le modifiche e gli errori da segnalare per la funzionalità della sezione Qualità in Intranet.
+   SIMILARITÀ SEMANTICA: 0.89
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
+10. DOMANDA: A cosa serve il progress “Qualità - nuove idee”?
+   RISPOSTA ATTESA: Serve a raccogliere suggerimenti e proposte da parte degli utenti MIM per migliorare i processi qualitativi, con uno spazio aperto all’innovazione interna.
+   RISPOSTA GENERATA: Il progress “Qualità - nuove idee” serve a inserire suggerimenti, nuove idee e indicazioni utili al miglioramento della gestione di MIM.
+   SIMILARITÀ SEMANTICA: 0.91
+   CORRETTA? ✅
+--------------------------------------------------------------------------------
