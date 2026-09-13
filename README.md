@@ -47,15 +47,15 @@ The RAG pipeline ingests, cleans, and indexes **thousands of internal support me
 
 The system was evaluated across **7 different LLMs** to compare answer accuracy:
 
-| Model | Provider | Type |
-|---|---|---|
-| GPT-4.1 | OpenAI | Proprietary |
-| GPT-4-Turbo | OpenAI | Proprietary |
-| GPT-4 | OpenAI | Proprietary |
-| GPT-3.5-Turbo | OpenAI | Proprietary |
-| Gemini 2.5 Flash | Google | Proprietary |
-| Mistral Tiny | Mistral AI | Open-weight |
-| Meta-Llama | Meta | Open-weight |
+| Model            | Provider   | Type        |
+| ---------------- | ---------- | ----------- |
+| GPT-4.1          | OpenAI     | Proprietary |
+| GPT-4-Turbo      | OpenAI     | Proprietary |
+| GPT-4            | OpenAI     | Proprietary |
+| GPT-3.5-Turbo    | OpenAI     | Proprietary |
+| Gemini 2.5 Flash | Google     | Proprietary |
+| Mistral Tiny     | Mistral AI | Open-weight |
+| Meta-Llama       | Meta       | Open-weight |
 
 ## 📊 Key Results
 
@@ -63,14 +63,14 @@ Evaluation was performed using **5 test sets** with both **True/False** and **op
 
 ### True/False Questions (Similarity Retrieval)
 
-| Model | Best Accuracy |
-|---|---|
-| **GPT-3.5-Turbo** | **86.67%** |
-| **GPT-4-Turbo** | **86.67%** |
-| **GPT-4** | **86.67%** |
-| **Mistral Tiny** | **86.67%** |
-| GPT-4.1 | 73.33% |
-| Gemini 2.5 Flash | 73.33% |
+| Model             | Best Accuracy |
+| ----------------- | ------------- |
+| **GPT-3.5-Turbo** | **86.67%**    |
+| **GPT-4-Turbo**   | **86.67%**    |
+| **GPT-4**         | **86.67%**    |
+| **Mistral Tiny**  | **86.67%**    |
+| GPT-4.1           | 73.33%        |
+| Gemini 2.5 Flash  | 73.33%        |
 
 ### Open-ended Questions
 
@@ -78,25 +78,25 @@ Evaluated using **semantic similarity** against expected answers and validated w
 
 ### Chunk Size Impact
 
-| Chunk Config | Avg. Accuracy |
-|---|---|
-| 500 chars / 150 overlap | **Best balance** |
+| Chunk Config            | Avg. Accuracy         |
+| ----------------------- | --------------------- |
+| 500 chars / 150 overlap | **Best balance**      |
 | 800 chars / 100 overlap | Good for long threads |
-| 300 chars / 50 overlap | Lower accuracy |
+| 300 chars / 50 overlap  | Lower accuracy        |
 
 ## 🔧 Tech Stack
 
-| Category | Technologies |
-|---|---|
-| **Language** | Python 3.11 |
-| **LLM Framework** | LangChain |
-| **Vector Store** | FAISS (faiss-cpu) |
-| **Embeddings** | OpenAI Embeddings |
-| **LLM Providers** | OpenAI, Google Gemini, Mistral AI |
-| **NLP / ML** | Hugging Face Transformers, scikit-learn, PyTorch |
-| **Data Processing** | Pandas, BeautifulSoup, TF-IDF Vectorizer |
-| **Visualization** | Matplotlib, Seaborn |
-| **Environment** | Google Colab (with GPU support for local models) |
+| Category            | Technologies                                     |
+| ------------------- | ------------------------------------------------ |
+| **Language**        | Python 3.11                                      |
+| **LLM Framework**   | LangChain                                        |
+| **Vector Store**    | FAISS (faiss-cpu)                                |
+| **Embeddings**      | OpenAI Embeddings                                |
+| **LLM Providers**   | OpenAI, Google Gemini, Mistral AI                |
+| **NLP / ML**        | Hugging Face Transformers, scikit-learn, PyTorch |
+| **Data Processing** | Pandas, BeautifulSoup, TF-IDF Vectorizer         |
+| **Visualization**   | Matplotlib, Seaborn                              |
+| **Environment**     | Google Colab (with GPU support for local models) |
 
 ## 📂 Project Structure
 
@@ -163,20 +163,14 @@ jupyter notebook RAG/RagSystem.ipynb
 
 ## 📈 Dataset Statistics
 
-| Metric | Value |
-|---|---|
-| Total progress threads | 574 |
-| Total messages | 8,669 |
-| Unique authors | 49 |
-| Avg. messages per thread | 15.1 |
-| Avg. message length | 922 chars (~138 words) |
+| Metric                   | Value                  |
+| ------------------------ | ---------------------- |
+| Total progress threads   | 574                    |
+| Total messages           | 8,669                  |
+| Unique authors           | 49                     |
+| Avg. messages per thread | 15.1                   |
+| Avg. message length      | 922 chars (~138 words) |
 
 ## 📄 License
 
 This project was developed for academic purposes as part of a Bachelor's thesis at the University of Brescia.
-
-## 📬 Contact
-
-**Mattia Massolari**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mattia-massolari/)
-- 📧 Feel free to reach out for questions or collaborations
